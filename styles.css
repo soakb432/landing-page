@@ -1,3 +1,7 @@
+.hero, .footer {
+  background-color: #1f2937;
+}
+
 img {
   width: 200px;
   height: auto;
