@@ -1,8 +1,16 @@
+img {
+  width: 200px;
+  height: auto;
+}
+
+/* Styling section. Restructure later */
+
 .hero, .footer {
   background-color: #1f2937;
 }
 
-img {
-  width: 200px;
-  height: auto;
+.main-text {
+  font-size: 48px;
+  color:#f9faf8;
+  font-weight: bolder;
 }
