@@ -30,6 +30,7 @@ img {
 .logo {
   font-size: 24px;
   color: #f9faf8;
+  font-weight: bolder;
 }
 
 button, .modal {
