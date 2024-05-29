@@ -38,3 +38,10 @@ button, .modal {
 .quote-section {
   background-color: #e5e7eb;
 }
+
+.quote {
+  font-size: 36px;
+  font-weight: lighter;
+  font-style: italic;
+  color: #1f2937;
+}
