@@ -76,6 +76,6 @@ ul {
   padding: 16px 150px;
 }
 
-.image, .hero-text {
+.hero-img, .hero-text {
   flex: 1
 }
