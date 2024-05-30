@@ -55,6 +55,11 @@ button, .modal {
   font-weight: lighter;
   font-style: italic;
   color: #1f2937;
+  margin: 0;
+}
+
+.author {
+  text-align: end;
 }
 
 ul {
