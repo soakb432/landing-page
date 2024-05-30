@@ -5,11 +5,6 @@ body {
   margin: 0;
 }
 
-img {
-  width: 200px;
-  height: auto;
-}
-
 /* Styling section. Restructure later */
 
 .hero, .footer {
@@ -90,4 +85,9 @@ ul {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.hero-img {
+  width: 200px;
+  height: auto;
 }
