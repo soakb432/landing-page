@@ -87,6 +87,10 @@ ul {
   align-items: center;
 }
 
+.info-section {
+  text-align: center;
+}
+
 .hero-img {
   width: 200px;
   height: auto;
