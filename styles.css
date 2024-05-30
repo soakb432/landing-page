@@ -47,11 +47,14 @@ button, .modal {
 }
 
 .quote {
+  padding: 80px 180px;
+}
+
+.quote-text {
   font-size: 36px;
   font-weight: lighter;
   font-style: italic;
   color: #1f2937;
-  padding: 80px 180px;
 }
 
 ul {
