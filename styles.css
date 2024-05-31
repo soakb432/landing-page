@@ -52,7 +52,7 @@ button, .modal {
 
 .quote-text {
   font-size: 36px;
-  font-weight: lighter;
+  font-weight: 300;
   font-style: italic;
   color: #1f2937;
   margin: 0;
