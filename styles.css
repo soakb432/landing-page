@@ -157,3 +157,9 @@ button {
 .text {
   color: #1f2937;
 }
+
+.modal-header {
+  color: #f9faf8;
+  font-weight: bold;
+  font-size: 20px;
+}
