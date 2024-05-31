@@ -142,3 +142,9 @@ button {
 .sign-up .modal {
   flex: 1 1 auto;
 }
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
