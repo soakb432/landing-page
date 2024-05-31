@@ -120,3 +120,8 @@ ul {
   padding: 30px 100px;
   border-radius: 5px;
 }
+
+button {
+  border-radius: 5px;
+  border: 0px;
+}
