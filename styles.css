@@ -119,6 +119,9 @@ ul {
   margin: 80px 150px;
   padding: 30px 100px;
   border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 button {
