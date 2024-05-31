@@ -127,11 +127,11 @@ button, .modal {
 }
 
 button {
+  font-size: 16px;
   border-radius: 5px;
   border: 0px;
   padding: 5px 25px;
   color: #f9faf8;
-  font-weight: bold;
 }
 
 .modal button {
